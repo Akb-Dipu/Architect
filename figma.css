@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap');
+/* G3 Architects */
+
+
+.nav a{
+    ont-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+text-align: center;
+
+/* Dark 02 */
+
+color: #424242;
+
+}
+.g3{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+/* Dark 01 */
+
+color: #131313;
+
+
+}
+
+
+/* Navigation links */
+.nav{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+
+text-align: center;
+
+/* Dark 02 */
+
+color: #424242;
+
+}
+
+.slogan{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+
+.subline1{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Dark 03 */
+
+color: #727272;
+
+
+}
+
+/* Button design */
+
+.btn{
+    width: 180px;
+height: 64px;
+background: #FF900E;
+border-radius: 8px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+border: none;
+margin-top: 35px;
+
+
+
+}
+
+.Quick-headline{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+
+/* Dark 03 */
+
+color: #727272;
+
+
+}
+
+.subtext2{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 03 */
+
+color: #727272;
+
+}
+
+
+.love-headline{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+
+
+.top{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 01 */
+
+color: #131313;
+}
+
+.subtext{
+    margin-top: 24px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 03 */
+
+color: #727272;
+}
+
+.fact{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+
+.last-line{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* Dark 02 */
+
+color: #424242;
+}
+
+.sponsor-headline{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 01 */
+
+color: #131313;
+}
+
+.number{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 02 */
+
+color: #424242;
+
+}
+
+.comment{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 03 */
+
+color: #727272;
+
+}
+
+
+.sp1,.sp2,.sp3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    
+    /* Dark 03 */
+    
+   
+}
+.sp1{
+    color: #727272;
+}
+
+.sp2{
+    color: #131313;
+
+}
+
+.sp3{
+    color: #FF900E;
+}
